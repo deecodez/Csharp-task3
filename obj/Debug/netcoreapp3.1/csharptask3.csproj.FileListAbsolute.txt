@@ -1,0 +1,11 @@
+C:\Users\OLUDAYO\csharptask3\obj\Debug\netcoreapp3.1\csharptask3.csprojAssemblyReference.cache
+C:\Users\OLUDAYO\csharptask3\obj\Debug\netcoreapp3.1\csharptask3.AssemblyInfoInputs.cache
+C:\Users\OLUDAYO\csharptask3\obj\Debug\netcoreapp3.1\csharptask3.AssemblyInfo.cs
+C:\Users\OLUDAYO\csharptask3\bin\Debug\netcoreapp3.1\csharptask3.exe
+C:\Users\OLUDAYO\csharptask3\bin\Debug\netcoreapp3.1\csharptask3.deps.json
+C:\Users\OLUDAYO\csharptask3\bin\Debug\netcoreapp3.1\csharptask3.runtimeconfig.json
+C:\Users\OLUDAYO\csharptask3\bin\Debug\netcoreapp3.1\csharptask3.runtimeconfig.dev.json
+C:\Users\OLUDAYO\csharptask3\bin\Debug\netcoreapp3.1\csharptask3.dll
+C:\Users\OLUDAYO\csharptask3\bin\Debug\netcoreapp3.1\csharptask3.pdb
+C:\Users\OLUDAYO\csharptask3\obj\Debug\netcoreapp3.1\csharptask3.dll
+C:\Users\OLUDAYO\csharptask3\obj\Debug\netcoreapp3.1\csharptask3.pdb
